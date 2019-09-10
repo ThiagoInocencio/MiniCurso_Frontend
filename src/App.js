@@ -11,6 +11,7 @@ function App() {
     <Router>
       <Navbar />
       <br />
+      <Route path="/" exact component={ListagemLivro} />
       <Route path="/listagem" exact component={ListagemLivro} />
       <Route path="/cadastrar-livro" exact component={CadastroLivro} />
       <Route path="/editar-livro/:id" exact component={EditarLivro} />

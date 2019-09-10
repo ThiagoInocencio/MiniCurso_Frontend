@@ -126,7 +126,7 @@ class ListagemLivros extends Component {
 
         return (
             <Container>
-                <h1>IFLivros</h1>
+                <h1><img src="/logo.png" width="60" height="60" alt="IFSP Logo" />&nbsp;Listagem de livros</h1>
                 {
                     this.state.temAlerta &&
                     <Alert variant={this.state.tipoDoAlerta} dismissible onClose={() => this.setState({ temAlerta: false })}>

@@ -152,7 +152,7 @@ export default class EditarLivro extends Component {
 
         return (
             <Container>
-                <h1>Editar Livro</h1>
+                <h1><img src="/logo.png" width="60" height="60" alt="IFSP Logo" />&nbsp;Editar Livro</h1>
 
                 {
                     this.state.temAlerta &&

@@ -25,3 +25,22 @@
     vertical-align: middle;
     text-align: center;
 }
+
+h1 {
+    color: #118927;
+    margin-bottom: 20px;
+}
+
+.logo a {
+    color: #cecdcded !important;
+    text-decoration: none !important;
+    padding-right: 0px;
+}
+
+.cabecalho a:hover {
+    text-decoration: underline !important;
+}
+
+.logo a:hover {
+    text-decoration: none !important;
+}

@@ -128,7 +128,7 @@ class CadastroLivro extends Component {
 
         return (
             <Container>
-                <h1>Cadastrar Livro</h1>
+                <h1><img src="/logo.png" width="60" height="60" alt="IFSP Logo" />&nbsp;Cadastrar Livro</h1>
 
                 {
                     this.state.temAlerta &&
