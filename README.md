@@ -1,6 +1,6 @@
 # Desenvolvimento full stack: Frontend
 
-
+![Livros](/public/imagem_listagem.PNG "Tela de listagem de livros")
 
 1 - Pelo terminal/cmd na pasta raiz do projeto execute o comando: 
 
