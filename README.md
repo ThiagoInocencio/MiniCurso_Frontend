@@ -8,7 +8,7 @@ Neste minicurso iremos construir um sistema de cadastro de livros utilizando [No
 1 - Pelo terminal/cmd na pasta raiz do projeto execute o comando: 
 
 ```
-`npx create-react-app frontend`. 
+npx create-react-app frontend. 
 ```
 
 Esse comando criará a estrutura básica
@@ -25,7 +25,13 @@ Será criada a seguinte estrutura de arquivos:
   - README.md
   - yarn.lock\
   
- Para iniciar a aplicação digite `npm start`. A seguinte mensagem aparecerá:
+ Para iniciar a aplicação digite:
+ ```
+ cd frontend
+ npm start
+ ```
+ 
+ A seguinte mensagem aparecerá:
  
 ```
 Compiled successfully!
