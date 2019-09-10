@@ -55,7 +55,7 @@ projeto utilizamos o comando:
 
 ## Código-fonte para acompanhamento
 
-Durante o minicurso o código-fonte do projeto será atualizado e compartilhado em tempo real através destes links:
+Durante o minicurso o código-fonte do projeto será atualizado e compartilhado em tempo real através destes links: 
 
 - **/frontend**
   - **/node_modules**
