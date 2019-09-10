@@ -1,0 +1,27 @@
+.fotoCapa {
+    display: block;
+    margin-bottom: 10px;
+}
+.inputFotoLabel {
+    display: block !important;
+}
+.cabecalho {
+    background-color: #00420c!important;
+}
+.validacao {
+    color: #f00;
+}
+.loading {
+    text-align: center;
+}
+.btn {
+    margin-right: 10px;
+}
+.btn a {
+    color: #fff !important;
+    text-decoration: none !important;
+}
+.tabela td {
+    vertical-align: middle;
+    text-align: center;
+}
