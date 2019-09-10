@@ -1,7 +1,10 @@
 # Desenvolvimento full stack: Frontend
 
+Neste minicurso iremos construir um sistema de cadastro de livros utilizando [Node.js](https://nodejs.org/pt-br/), [ReactJS](https://reactjs.org/), [Express](https://expressjs.com/) e [MongoDB](https://www.mongodb.com/). A imagem a seguir mostra a tela de listagem de livros da aplicação que será desenvolvida.
+
 ![Livros](/public/imagem_listagem.PNG "Tela de listagem de livros")
 
+## Tutorial
 1 - Pelo terminal/cmd na pasta raiz do projeto execute o comando: 
 
 ```
