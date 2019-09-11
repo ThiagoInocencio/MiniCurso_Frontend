@@ -122,7 +122,7 @@ export default class EditarLivro extends Component {
             exemplares: this.state.exemplares
         }
 
-        axios.post('http://localhost:5000/livros/update/' + this.props.match.params.id, livro)
+        axios.put('http://localhost:5000/livros/update/' + this.props.match.params.id, livro)
             .then(res => {
                 var alerta = {
                     tipo: "success",
